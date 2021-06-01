@@ -1,0 +1,20 @@
+.table {
+    width: 100%;
+    border: none;
+    margin-bottom: 20px;
+}
+
+.table tbody th{
+    font-size: 18px;
+}
+
+.table tbody td {
+    text-align: center;
+    border: none;
+    padding: 10px 15px;
+    font-size: 18px;
+    vertical-align: top;
+}
+.table tbody tr:nth-child(odd){
+    background: #c3c3c3;
+}
